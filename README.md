@@ -1,6 +1,5 @@
 - Hi, I’m @GeorgijGrigoriev
 - I’m interested in Go, Python and System Administrating
-- I’m currently learning Golang and vSphere.
 - I’m looking to collaborate on interesting projects :)
 - How to reach me Telegram @GeorgijGrigorev or via E-mail: grigorievga@yandex.ru
 
